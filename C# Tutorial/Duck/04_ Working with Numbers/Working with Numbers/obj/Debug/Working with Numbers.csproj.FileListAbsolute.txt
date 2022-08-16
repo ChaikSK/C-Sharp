@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\bin\Debug\Working with Numbers.exe.config
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\bin\Debug\Working with Numbers.exe
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\bin\Debug\Working with Numbers.pdb
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\obj\Debug\Working with Numbers.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\obj\Debug\Working with Numbers.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\obj\Debug\Working with Numbers.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\obj\Debug\Working with Numbers.exe
+D:\C# Tutorial\Duck\Working with Numbers\Working with Numbers\obj\Debug\Working with Numbers.pdb

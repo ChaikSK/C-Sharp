@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\bin\Debug\Working with Strings.exe.config
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\bin\Debug\Working with Strings.exe
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\bin\Debug\Working with Strings.pdb
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\obj\Debug\Working with Strings.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\obj\Debug\Working with Strings.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\obj\Debug\Working with Strings.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\obj\Debug\Working with Strings.exe
+D:\C# Tutorial\Duck\Working with Strings\Working with Strings\obj\Debug\Working with Strings.pdb

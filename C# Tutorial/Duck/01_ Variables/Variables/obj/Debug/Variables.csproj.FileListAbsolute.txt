@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\Variables\Variables\bin\Debug\Variables.exe.config
+D:\C# Tutorial\Duck\Variables\Variables\bin\Debug\Variables.exe
+D:\C# Tutorial\Duck\Variables\Variables\bin\Debug\Variables.pdb
+D:\C# Tutorial\Duck\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\Variables\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\Variables\Variables\obj\Debug\Variables.exe
+D:\C# Tutorial\Duck\Variables\Variables\obj\Debug\Variables.pdb
