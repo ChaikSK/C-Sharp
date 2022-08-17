@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\Building a Mad Libs Game.exe.config
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\Building a Mad Libs Game.exe
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\bin\Debug\Building a Mad Libs Game.pdb
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\Building a Mad Libs Game.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\Building a Mad Libs Game.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\Building a Mad Libs Game.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\Building a Mad Libs Game.exe
+D:\C# Tutorial\Duck\Building a Mad Libs Game\Building a Mad Libs Game\obj\Debug\Building a Mad Libs Game.pdb

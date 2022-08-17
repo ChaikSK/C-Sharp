@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\bin\Debug\06_ Building a Calculator.exe.config
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\bin\Debug\06_ Building a Calculator.exe
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\bin\Debug\06_ Building a Calculator.pdb
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\obj\Debug\06_ Building a Calculator.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\obj\Debug\06_ Building a Calculator.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\obj\Debug\06_ Building a Calculator.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\obj\Debug\06_ Building a Calculator.exe
+D:\C# Tutorial\Duck\06_ Building a Calculator\06_ Building a Calculator\obj\Debug\06_ Building a Calculator.pdb

@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\bin\Debug\08_ Arrays.exe.config
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\bin\Debug\08_ Arrays.exe
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\bin\Debug\08_ Arrays.pdb
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\obj\Debug\08_ Arrays.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\obj\Debug\08_ Arrays.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\obj\Debug\08_ Arrays.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\obj\Debug\08_ Arrays.exe
+D:\C# Tutorial\Duck\08_ Arrays\08_ Arrays\obj\Debug\08_ Arrays.pdb

@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\bin\Debug\Getting User Input.exe.config
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\bin\Debug\Getting User Input.exe
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\bin\Debug\Getting User Input.pdb
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\obj\Debug\Getting User Input.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\obj\Debug\Getting User Input.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\obj\Debug\Getting User Input.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\obj\Debug\Getting User Input.exe
+D:\C# Tutorial\Duck\Getting User Input\Getting User Input\obj\Debug\Getting User Input.pdb
