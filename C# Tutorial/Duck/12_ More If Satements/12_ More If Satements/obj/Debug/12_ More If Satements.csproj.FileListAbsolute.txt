@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\obj\Debug\12_ More If Satements.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\obj\Debug\12_ More If Satements.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\obj\Debug\12_ More If Satements.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\bin\Debug\12_ More If Satements.exe.config
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\bin\Debug\12_ More If Satements.exe
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\bin\Debug\12_ More If Satements.pdb
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\obj\Debug\12_ More If Satements.exe
+D:\C# Tutorial\Duck\12_ More If Satements\12_ More If Satements\obj\Debug\12_ More If Satements.pdb

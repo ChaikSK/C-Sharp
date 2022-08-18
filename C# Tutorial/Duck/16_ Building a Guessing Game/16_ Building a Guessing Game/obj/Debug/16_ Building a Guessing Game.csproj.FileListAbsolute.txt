@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\bin\Debug\16_ Building a Guessing Game.exe.config
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\bin\Debug\16_ Building a Guessing Game.exe
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\bin\Debug\16_ Building a Guessing Game.pdb
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\obj\Debug\16_ Building a Guessing Game.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\obj\Debug\16_ Building a Guessing Game.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\obj\Debug\16_ Building a Guessing Game.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\obj\Debug\16_ Building a Guessing Game.exe
+D:\C# Tutorial\Duck\16_ Building a Guessing Game\16_ Building a Guessing Game\obj\Debug\16_ Building a Guessing Game.pdb

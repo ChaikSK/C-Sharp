@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\bin\Debug\17_  For Loops.exe.config
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\bin\Debug\17_  For Loops.exe
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\bin\Debug\17_  For Loops.pdb
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\obj\Debug\17_  For Loops.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\obj\Debug\17_  For Loops.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\obj\Debug\17_  For Loops.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\obj\Debug\17_  For Loops.exe
+D:\C# Tutorial\Duck\17_  For Loops\17_  For Loops\obj\Debug\17_  For Loops.pdb
