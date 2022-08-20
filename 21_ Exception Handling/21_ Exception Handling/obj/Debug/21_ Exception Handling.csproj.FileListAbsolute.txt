@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\bin\Debug\21_ Exception Handling.exe.config
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\bin\Debug\21_ Exception Handling.exe
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\bin\Debug\21_ Exception Handling.pdb
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\obj\Debug\21_ Exception Handling.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\obj\Debug\21_ Exception Handling.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\obj\Debug\21_ Exception Handling.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\obj\Debug\21_ Exception Handling.exe
+D:\C# Tutorial\Duck\21_ Exception Handling\21_ Exception Handling\obj\Debug\21_ Exception Handling.pdb
