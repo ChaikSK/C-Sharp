@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\bin\Debug\23_ Object Methods.exe.config
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\bin\Debug\23_ Object Methods.exe
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\bin\Debug\23_ Object Methods.pdb
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\obj\Debug\23_ Object Methods.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\obj\Debug\23_ Object Methods.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\obj\Debug\23_ Object Methods.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\obj\Debug\23_ Object Methods.exe
+D:\C# Tutorial\Duck\23_ Object Methods\23_ Object Methods\obj\Debug\23_ Object Methods.pdb
