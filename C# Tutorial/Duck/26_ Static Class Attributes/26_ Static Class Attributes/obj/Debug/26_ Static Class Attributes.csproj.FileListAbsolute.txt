@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\bin\Debug\26_ Static Class Attributes.exe.config
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\bin\Debug\26_ Static Class Attributes.exe
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\bin\Debug\26_ Static Class Attributes.pdb
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\obj\Debug\26_ Static Class Attributes.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\obj\Debug\26_ Static Class Attributes.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\obj\Debug\26_ Static Class Attributes.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\obj\Debug\26_ Static Class Attributes.exe
+D:\C# Tutorial\Duck\26_ Static Class Attributes\26_ Static Class Attributes\obj\Debug\26_ Static Class Attributes.pdb

@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\bin\Debug\26_ Static Methods N Classes.exe.config
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\bin\Debug\26_ Static Methods N Classes.exe
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\bin\Debug\26_ Static Methods N Classes.pdb
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\obj\Debug\26_ Static Methods N Classes.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\obj\Debug\26_ Static Methods N Classes.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\obj\Debug\26_ Static Methods N Classes.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\obj\Debug\26_ Static Methods N Classes.exe
+D:\C# Tutorial\Duck\26_ Static Methods N Classes\26_ Static Methods N Classes\obj\Debug\26_ Static Methods N Classes.pdb

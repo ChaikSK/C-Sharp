@@ -1,0 +1,8 @@
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\bin\Debug\24_ Getters N Setters.exe.config
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\bin\Debug\24_ Getters N Setters.exe
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\bin\Debug\24_ Getters N Setters.pdb
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\obj\Debug\24_ Getters N Setters.csproj.AssemblyReference.cache
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\obj\Debug\24_ Getters N Setters.csproj.SuggestedBindingRedirects.cache
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\obj\Debug\24_ Getters N Setters.csproj.CoreCompileInputs.cache
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\obj\Debug\24_ Getters N Setters.exe
+D:\C# Tutorial\Duck\25_ Getters N Setters\24_ Getters N Setters\obj\Debug\24_ Getters N Setters.pdb
